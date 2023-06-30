@@ -124,6 +124,7 @@
 section {
     padding: 60px 0;
     min-height: 100vh;
+    background-color: lavender;
 }
 .contact-info {
 display: inline-block;
